@@ -1,4 +1,4 @@
-# mail service
+# F&P mail service
 
 ## <img src='https://www.svgrepo.com/show/450797/description.svg' height=40px weight=40px> Описание
 > Сайт-клон почтового сервиса
