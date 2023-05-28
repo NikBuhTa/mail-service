@@ -3,6 +3,16 @@
 ## <img src='https://www.svgrepo.com/show/450797/description.svg' height=40px weight=40px> Описание
 > Сайт-клон почтового сервиса
 
+## Инструкция по запуску
+Для того, чтобы скачать реп, введите сл. команды:
+> git clone https://github.com/NikBuhTa/mail-service.git <br> cd mail-service
+
+Затем установите зависимости командой:
+> npm install 
+
+Чтобы запустить проект локально введите:
+> npm run dev
+
 ## <img src='https://www.svgrepo.com/show/512428/list-1510.svg' height=40px weight=40px> Стек технологий
 - Vue3
 - HTML5, CSS3
