@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./assets/fonts/Ubuntu-Regular.ttf');
+}
+/* #EAE7DC - #D8C3A5 - #8E8D8A - #E98074 - #E85A4F */
+.page {
+    background-color: #EAE7DC;
+    font-family: 'Ubuntu', serif;
+    max-width: 1400px;
+    margin: auto;
+    padding: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}

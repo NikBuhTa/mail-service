@@ -1,0 +1,51 @@
+.main {
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    color: #494947;
+    border-radius: 10px;
+    box-shadow: -2px -2px 8px #E98074;
+}
+
+.aside {
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #E98074;
+}
+
+.aside__title {
+    margin: 0;
+    padding: 0 10px 10px;
+    font-size: 28px;
+}
+
+.settings {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.letters {
+    font-family: inherit;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    gap: 15px;
+}
+
+@media screen and (max-width: 785px) {
+    .aside {
+        max-width: 200px;
+    }
+}
